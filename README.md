@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashKumar)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anigieous)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @anigieous
 - 👀 I’m interested in DSA
 - 🌱 I’m currently learning Algorithm Development
